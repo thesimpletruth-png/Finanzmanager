@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FinanceManager.Core/FinanceManager.Core.csproj" />
+    <Project Path="src/FinanceManager.Data/FinanceManager.Data.csproj" />
+    <Project Path="src/FinanceManager.Services/FinanceManager.Services.csproj" />
+    <Project Path="src/FinanceManager.UI/FinanceManager.UI.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FinanceManager.Services.Tests/FinanceManager.Services.Tests.csproj" />
+  </Folder>
+</Solution>
